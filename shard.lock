@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  harness:
+    git: https://github.com/Willamin/harness.git
+    version: 0.1.0+git.commit.c7ee4e7daa10598409472d35475cedf83253cd70
+
+  stdimp:
+    git: https://github.com/Willamin/stdimp.git
+    version: 0.3.1+git.commit.72d8ea77634d5393f55484dd969c81ab1cb4b2ee
+
