@@ -1,18 +1,6 @@
 # advent
 
-TODO: Write a description here
-
-## Installation
-
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+A quick tool for caching Advent of Code problems offline.
 
 ## Contributing
 
