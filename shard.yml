@@ -6,12 +6,8 @@ authors:
 
 targets:
   advent:
-    main: src/entrypoint.cr
+    main: src/advent.cr
 
 crystal: 0.35.1
 
 license: MIT
-
-dependencies:
-  stdimp:
-    github: Willamin/stdimp
