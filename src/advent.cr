@@ -2,7 +2,7 @@ require "http/client"
 require "xml"
 
 module Advent
-  VERSION = "0.0.0"
+  VERSION = "1.0.0"
 end
 
 CACHE = ENV["ADVENT_OF_CODE_CACHE"]?.try { |path| Path[path] }
